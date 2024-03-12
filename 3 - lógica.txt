@@ -1,0 +1,11 @@
+a) O próximo elemento é '9' pois se trata de uma sequência de números impares.
+
+b) O próximo elemento é '128' pois se trata de uma Progressão Geométrica onde a razão é 2.
+
+c) O próximo elemento é '49' pois se trata do quadrado dos números naturais em sequência, onde o próximo seria o quadrado de '7'.
+
+d) O próximo elemento é '100' pois se trata do quadrado dos números pares em sequência, onde '100' seria o quadrado de '10'.
+
+e) O próximo elemento é '13' pois se trata da sequência de FIbonacci.
+
+f) O próximo elemento é '21' pois o número '2' no inicio indica que esse deve ser o resultado da subtração do número seguinte com o posterior, onde 16-17 = 1 e 18-19 = 1 somando seus resultados para 2, indicando que a subtração de 19 com o próximo elemento deveria ser esse valor.

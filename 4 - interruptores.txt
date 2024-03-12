@@ -1,0 +1,18 @@
+Para descobrir qual interruptor controla qual lâmpada, faria da seguinte maneira. 
+
+1 - Ligar o interruptor 01 e após alguns minutos desliga-lo. Após isso, ligaria o interruptor 02;
+
+2 - Iria até a sala 01 e enfrentaria a seguinte situação:
+	2.1 - Se na sala 01 a lâmpada estiver acesa, o interruptor 02 a controla;
+	2.2 - Se na sala 01 a lâmpada estiver apagada mas quente, o interruptor 01 a controla;
+	2.3 - Se na sala 01 lâmpada estiver desligada e fria, o interruptor 03 a controla;
+	
+3 - Retornaria para sala dos interruptores e desligaria o interruptor 02. Após isso, ligaria o interruptor 01;
+
+4 - Indo até uma sala diferente da primeira, depararia com uma das situações:
+	4.1 - Se a lâmpada estiver acesa, o interruptor 01 a controla;
+	4.2 - Se a lâmpada estiver apagada porém quente, o interruptor 02 a controla;
+	4.3 - Se a lâmpada estiver apagada, o interruptor 03 a controla;
+	
+Dessa maneira, em duas idas, iria descobrir duas salas controlada por dois interruptores cada. O que sobrar, corresponderá a sala que não foi visitada. 
+
